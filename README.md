@@ -1,7 +1,7 @@
 # taoba_simple_spider
 用来获取桃叭上小偶像集资基本信息
 
-···python
+···{python}
 getDetail(pro_id = 14654) # 就这么一个function，调用了就会返回以下结果。这个pro_id是桃叭每个项目后面?=的id
 ···
 
