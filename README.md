@@ -2,7 +2,7 @@
 用来获取桃叭上小偶像集资基本信息 (好像也没啥用，毕竟后花园那么多数据贴)
 
 ```python
-get_idol_recent_pro_ids(idol_name="胡晓慧",num_pro=3) # 返回进三场胡晓慧集资项目的ID
+get_idol_recent_pro_ids(idol_name="胡晓慧",num_pro=3) # 返回近三场胡晓慧集资项目的ID
 
 getDetail(pro_id = 14654) # 就这么一个function，调用了就会返回以下结果。这个pro_id是桃叭每个项目后面?=的id
 
